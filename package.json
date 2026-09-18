@@ -40,3 +40,20 @@
     "vitest": "^1.2.2"
   }
 }
+{
+  "chainId": 101,
+  "address": "5F79rpkcQdfqsZgpnbrehnABYL7MgLeX8oDB329ppump",
+  "symbol": "LDEX",
+  "name": "LABUBUDEX",
+  "decimals": 6,
+  "logoURI": "https://github.com/devlabubudex/ASSETpnglabubudex/blob/cfb3c8968a3687f5a5641eeb565cbc6ca562f35e/image_tOfY53.png.png",
+  "tags": [
+    "community-token",
+    "meme"
+  ],
+  "extensions": {
+    "website": "https://labubudex.netlify.app",
+    "twitter": "https://x.com/devlabubudex",
+    "description": "LABUBUDEX is a high-velocity, community-driven ecosystem protocol built on the Solana network. Fair launched with 0% transaction taxes and fully backed by organic community expansion."
+  }
+}
